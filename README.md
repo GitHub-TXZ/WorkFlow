@@ -56,8 +56,8 @@
 ### 运行流程
 1. **准备数据**：将待分割的医学影像放入`test_input`文件夹。
 2. **下载训练好的权重**：为了使用我们的模型，你需要下载预先训练好的权重。请使用以下链接和提取码进行下载：
-- **百度网盘链接**：[点击这里下载](https://pan.baidu.com/s/1sR8NUNE8aylamIDDFvJjiA) 
-- **提取码**：`fr23`
+   - **百度网盘链接**：[点击这里下载](https://pan.baidu.com/s/1sR8NUNE8aylamIDDFvJjiA) 
+   - **提取码**：`fr23`
 3. **启动推理**：
    - 使用Nextflow执行工作流：
      ```bash
@@ -144,8 +144,8 @@
 ### 运行流程
 1. **准备数据**：将待分割的医学影像放入`test_input`文件夹。
 2. **下载训练好的权重**：为了使用我们的模型，你需要下载预先训练好的权重。请使用以下链接和提取码进行下载：
-- **百度网盘链接**：[点击这里下载](https://pan.baidu.com/s/1zKRKW_IXLncR0ciQsFr_4g) 
-- **提取码**：`bv4j`
+   - **百度网盘链接**：[点击这里下载](https://pan.baidu.com/s/1zKRKW_IXLncR0ciQsFr_4g) 
+   - **提取码**：`bv4j`
 3. **启动推理**：
    - 使用Nextflow执行工作流：
      ```bash
